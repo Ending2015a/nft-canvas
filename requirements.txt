@@ -1,0 +1,7 @@
+numpy
+trimesh
+pyglet
+imageio
+fastapi
+uvicorn
+python-multipart
